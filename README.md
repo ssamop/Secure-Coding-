@@ -21,9 +21,12 @@ This repository documents the Secure Coding Review Project, undertaken in collab
 👉 Implemented stringent file upload security measures, including validation of file types, size restrictions, and secure storage practices. Avoided direct execution of uploaded files.
 
 ⚙️ Tools:
+
 *1. Static Code Analyzers:*
 
 * Tool Used: Bandit
 * Purpose: Identified common security issues in Python code through static code analysis.
+  
 *2. Manual Code Review:*
+
 * Process: Conducted a comprehensive manual code review, focusing on understanding the logic, architecture, and potential security pitfalls within the codebase. 
